@@ -1,0 +1,33 @@
+#login{
+    text-align: center;
+    overflow: hidden;
+    margin: 0px;
+    color: white;
+    background-color:#4C4948;
+}
+.login-form{
+    width:  400px;
+    align-self: center;
+    height: 200px;
+    margin: auto;
+    padding-top: 30px;
+    color: white;
+    text-align: center;
+
+}
+.login-form input{
+    align-self: center;
+    text-align: center;
+    color: white;
+    width: 80%;
+    height: 40px;
+    background-color:darkgray;
+    margin-bottom: 10px;
+    border: 1px solid white;
+    border-radius: 2px;
+}
+.login-form button{
+    float: right;
+    margin-bottom: 30px;
+    margin-right: 40px;
+}

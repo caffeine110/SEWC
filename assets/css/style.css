@@ -1,0 +1,125 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+    line-height: 1.5;
+    padding: 0px;
+    margin: 0px;
+    background-color: #f4f4f4;
+}
+
+/* Globle**/
+.container{
+    width: 80%;
+    margin: auto;
+    overflow: hidden;
+}
+ul{
+    margin: 0px;
+    padding: 0;
+}
+.button-one {
+    height: 35px;
+    color: #ffffff;
+    background: gray;
+    border: 0;
+    padding: 0 20px 0 20px;
+    border: 1px solid white;
+    border-radius: 2px;
+}
+
+
+/** Header **/
+header{
+    background: #ffffff;
+    color: #35424a;
+    height:60px;
+}
+header a{
+    color: gray;
+    text-decoration: none;
+    text-transform: uppercase;
+    font-size: 16px;
+}
+header nav{
+    margin: 0px;
+    padding: 0px;
+    display:inline;
+    padding: 0 20px 0 20px;
+}
+header #branding{
+    float: left;
+}
+header #branding h1{
+    margin: 7px 0 0 0;
+}
+header nav{
+    float: right;
+    margin-top: 15px;
+    padding: 0 10px 0 10px;
+}
+header nav a{
+    color: gray;
+    text-decoration: none;
+    text-transform: uppercase;
+    font-size: 16px;
+    margin-left: 15px;
+}
+header nav input{
+    padding: 4px 4px 4px 4px;
+    height: 40px;
+    width: 250px;
+    background: white;
+    border: 1px solid gray;
+    margin: 0 5px 0 5px;
+    border-radius: 2px;
+}
+header .highlight, header .current a{
+    color: goldenrod;
+    font-weight: bold;
+}
+header a:hover{
+    color: black;
+    font-weight: 500;
+}
+
+
+
+
+
+
+
+
+
+
+footer {
+    margin: 0;
+    padding: 0;
+}
+#coloums {
+    background-color: white;
+    color: #35424a;
+    min-height: 100px;
+    text-align: center;
+}
+#coloums .coloum{
+    float: left;
+    overflow: hidden;
+    width: 30%;
+    min-height: 70px;
+    padding-bottom: 20px;
+    text-align: center;
+}
+#coloums .coloum li{
+    color: #gray;
+}
+#coloums .coloum a{
+    color: #4C4948;
+    text-decoration: none;
+}
+
+.foot {
+    height: 50px;
+    text-align: center;
+    color: #ffffff;
+    background-color: #353433;
+}

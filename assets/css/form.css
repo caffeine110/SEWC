@@ -1,0 +1,29 @@
+#signup{
+    overflow: hidden;
+    margin: 0px;
+    color: white;
+    background-color:#4C4948;
+}
+.signup-form{
+    width: 400px;
+    height: 300px;
+    margin: auto;
+    padding-top: 30px;
+    color: white;
+
+}
+.signup-form input{
+    color: white;
+    width: 90%;
+    height: 40px;
+    padding: 0 5px 0 10 px;
+    background-color:darkgray;
+    margin-bottom: 10px;
+    border: 1px solid white;
+    border-radius: 2px;
+}
+.signup-form button{
+    float: right;
+    margin-bottom: 30px;
+    margin-right: 40px;
+}
